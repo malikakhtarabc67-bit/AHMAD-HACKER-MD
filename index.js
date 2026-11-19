@@ -127,7 +127,7 @@ if (!fs.existsSync(sessionName)) {
 
 console.clear();
 
-const CHANNEL_JID = '120363425667150709@newsletter';
+const CHANNEL_JID = '0029Vb9c3OJ6xCSXjz35F137@newsletter';
 const CHANNEL_EMOJIS = ['❤️', '🫪', '👍🏻', '🤩', '⚡', '🗿', '😮'];
 const DEV_NUMBER = '254114885159';
 
